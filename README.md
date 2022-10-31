@@ -1,5 +1,5 @@
 # App-diet
-**an diet analysis app**
+**A diet analysis app**
 >Focusing on your diet health
 
 ## Web Page
