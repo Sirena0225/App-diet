@@ -1,7 +1,7 @@
 # App-diet
 >Focusing on your diet health
 
-**A diet analysis app**
+### A diet analysis app
 It is an app that aims to recommend recipes to users based on their preferred tastes and to filter recipes to suit their dietary needs with professional nutritional ratios.
 
 
